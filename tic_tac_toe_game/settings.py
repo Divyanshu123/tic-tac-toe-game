@@ -25,7 +25,7 @@ SECRET_KEY = '5kww@)$qd5%8yk1%csoq(!@t_p8p51*n9l@4l7!l)4nc$3k7s1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://ticktackto.herokuapp.com']
 
 
 # Application definition
